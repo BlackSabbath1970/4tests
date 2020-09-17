@@ -1,2 +1,2 @@
 # 4tests
-receas.runelt
+sam
